@@ -1,0 +1,6 @@
+SHA256 Hash der Originaldatei:
+Systemethik_fuer_die_digitale_Zivilisation.pdf
+
+Hash: e1f5696c2941a475c872bac8ee53ce8f99b94aa7f95fd058d6b8dc664efbe8df
+Datum: 2025-05-24
+Autor: Fatih Dinç
